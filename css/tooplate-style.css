@@ -102,6 +102,7 @@ button:focus { outline: none; }
 .tm-site-header {
 	background: url('../img/lizzy.jpg') no-repeat;
 	background-size: cover;
+	background-position: center;
 	height: 300px;
 	padding: 60px 80px;
 	position: relative;
